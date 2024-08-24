@@ -6,11 +6,6 @@
 Recruit troops, create armies, loot gold and attack your foes. All free.
 
 Will of Steel is one of the only (if not the only) RTS bot that offers an actual strategy game within the boundaries of Discord.
-<p align="center">
-<a href="https://willofsteel.me/" target="_blank"><img src="https://i.imgur.com/ulq2oSR.png" height="300" ></a>
-<a href="https://willofsteel.me/" target="_blank"><img src="https://i.imgur.com/FXqkFGp.png" height="300" ></a>
-<a href="https://willofsteel.me/" target="_blank"><img src="https://i.imgur.com/CQ89Kyc.png" height="300" ></a>
-</p>
 
 ## Discover more
  
